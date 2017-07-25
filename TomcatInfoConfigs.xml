@@ -1,0 +1,25 @@
+<application>
+  <component name="TomcatInfoConfigs">
+    <option name="current">
+      <TomcatInfo>
+        <option name="name" value="Apache Tomcat 7.0.47" />
+        <option name="path" value="C:\eb2\apache-tomcat\apache-tomcat-7.0.47" />
+        <option name="version" value="7.0.47.0" />
+      </TomcatInfo>
+    </option>
+    <option name="tomcatInfos">
+      <list>
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 7.0.47" />
+          <option name="path" value="C:\eb2\apache-tomcat\apache-tomcat-7.0.47" />
+          <option name="version" value="7.0.47.0" />
+        </TomcatInfo>
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 8.0.24" />
+          <option name="path" value="C:\eb2\apache-tomcat\apache-tomcat-8.0.24" />
+          <option name="version" value="8.0.24.0" />
+        </TomcatInfo>
+      </list>
+    </option>
+  </component>
+</application>
