@@ -11,6 +11,7 @@
     <option name="ANNOTATION_PARAMETER_WRAP" value="2" />
   </JavaCodeStyleSettings>
   <codeStyleSettings language="JAVA">
+    <option name="RIGHT_MARGIN" value="180" />
     <option name="KEEP_LINE_BREAKS" value="false" />
     <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
     <option name="KEEP_CONTROL_STATEMENT_IN_ONE_LINE" value="false" />
