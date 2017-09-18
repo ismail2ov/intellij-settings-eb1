@@ -58,4 +58,7 @@
     </option>
     <option name="cloneParentDir" value="C:\Users\00738205\Documents\Examples" />
   </component>
+  <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="C:/IntelliJ_workspace/Patches" />
+  </component>
 </application>
