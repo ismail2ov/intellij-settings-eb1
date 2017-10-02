@@ -13,6 +13,23 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.java</mask>
+      <mask>C</mask>
+      <mask>Con</mask>
+      <mask>Connec</mask>
+      <mask>Connecti</mask>
+      <mask>Connection</mask>
+      <mask>Connection.</mask>
+      <mask>Connection.p</mask>
+      <mask>Connection.pro</mask>
+      <mask>Connection.pro*</mask>
+      <mask>jo.pro*</mask>
+      <mask>job.pro*</mask>
+      <mask>jobC.pro*</mask>
+      <mask>jobConf.pro*</mask>
+      <mask>jobConfi.pro*</mask>
+      <mask>jobConfig.pro*</mask>
+      <mask>jobConfigs.pro*</mask>
+      <mask>jobConfigse.pro*</mask>
     </recentFileMasks>
   </component>
 </application>
