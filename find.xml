@@ -4,17 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.js</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.java</mask>
-      <mask>C</mask>
-      <mask>Con</mask>
       <mask>Connec</mask>
       <mask>Connecti</mask>
       <mask>Connection</mask>
@@ -30,6 +19,21 @@
       <mask>jobConfig.pro*</mask>
       <mask>jobConfigs.pro*</mask>
       <mask>jobConfigse.pro*</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.b</mask>
+      <mask>*.ba</mask>
+      <mask>*.bat</mask>
+      <mask>*.p</mask>
+      <mask>*.pr</mask>
+      <mask>*.pro</mask>
+      <mask>*.prop</mask>
+      <mask>*.prope</mask>
+      <mask>*.proper</mask>
+      <mask>*.propert</mask>
+      <mask>*.properti</mask>
+      <mask>*.propertie</mask>
+      <mask>*.properties</mask>
     </recentFileMasks>
   </component>
 </application>
