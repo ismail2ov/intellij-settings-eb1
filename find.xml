@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'DEV_TR-363_DECOUPLE_TRANSPORTS'" />
-    <option name="defaultScopeName" value="Project 'DEV_TR-363_DECOUPLE_TRANSPORTS'" />
-    <option name="SEARCH_SCOPE" value="Project 'DEV_TR-363_DECOUPLE_TRANSPORTS'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
       <mask>Connection.</mask>
       <mask>Connection.p</mask>
