@@ -3,14 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="pom.xml" />
     <recentFileMasks>
-      <mask>Connection.</mask>
-      <mask>Connection.p</mask>
-      <mask>Connection.pro</mask>
-      <mask>Connection.pro*</mask>
-      <mask>jo.pro*</mask>
-      <mask>job.pro*</mask>
-      <mask>jobC.pro*</mask>
       <mask>jobConf.pro*</mask>
       <mask>jobConfi.pro*</mask>
       <mask>jobConfig.pro*</mask>
@@ -34,6 +28,13 @@
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>p</mask>
+      <mask>po</mask>
+      <mask>pom</mask>
+      <mask>pom.</mask>
+      <mask>pom.x</mask>
+      <mask>pom.xm</mask>
+      <mask>pom.xml</mask>
     </recentFileMasks>
   </component>
 </application>
