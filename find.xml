@@ -5,6 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*.bat</mask>
       <mask>*.p</mask>
@@ -25,7 +26,6 @@
       <mask>*.xm</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
-      <mask>*.java</mask>
       <mask>*.xml</mask>
       <mask>p</mask>
       <mask>po</mask>
@@ -36,6 +36,7 @@
       <mask>pom.xml/</mask>
       <mask>pom.xml\</mask>
       <mask>pom.xml</mask>
+      <mask>*.java</mask>
     </recentFileMasks>
   </component>
 </application>
