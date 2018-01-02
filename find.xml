@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.jsp" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
       <mask>*.pr</mask>
       <mask>*.pro</mask>
@@ -14,11 +14,8 @@
       <mask>*.properti</mask>
       <mask>*.propertie</mask>
       <mask>*.properties</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.x</mask>
       <mask>*.xm</mask>
-      <mask>*.xml</mask>
       <mask>p</mask>
       <mask>po</mask>
       <mask>pom</mask>
@@ -35,6 +32,9 @@
       <mask>*.jsf</mask>
       <mask>*.js</mask>
       <mask>*.jsp</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
