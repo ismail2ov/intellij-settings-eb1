@@ -50,6 +50,10 @@
           <option name="url" value="https://github.com/sandromancuso/trip-service-kata.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://ismail.ahmedov@jira.mangodev.net/stash/scm/piur/automation.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\00738205\Documents\Examples" />
